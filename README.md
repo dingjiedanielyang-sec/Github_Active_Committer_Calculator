@@ -1,6 +1,6 @@
 # Github_Active_Committer_Calculator 
 
-This repo is created to help Github users to calculate and extract active Github committer in your organization in a given time range.  One user case that motivated me to create this tool was to get the active committer under our organization evaluating Github Advance Security Feature. Currently, Github API does not provide this feature to pull the active committers in a time range as the list commits API is only single repo based. This tool is able to pull the active committers of the organization by 1) Pull the commits and get the committers for each repo 2) Aggregate all the committers to get total unique committers
+This repo is created to help Github users to calculate and extract active Github committer in your organization in a given time range.  One use case that motivated me to create this tool was to get the active committer under our organization evaluating Github Advance Security Feature. Currently, Github API does not provide this feature to pull the active committers in a time range as the list commits API is only single repo based. This tool is able to pull the active committers of the organization by 1) Pull the commits and get the committers for each repo 2) Aggregate all the committers to get total unique committers
  
 ## Support
 
